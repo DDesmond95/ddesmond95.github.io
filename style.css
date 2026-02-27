@@ -241,6 +241,18 @@ body {
     font-size: 0.95rem;
 }
 
+.site-status {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.site-status img {
+    height: 20px;
+    border-radius: 4px;
+}
+
 .attribution {
     margin-top: 40px;
     font-size: 0.85rem;
