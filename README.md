@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,14,15,18,19,30&text=Desmond&fontSize=70&fontAlignY=35&desc=Dynamic%20Developer%20and%20Designer&descSize=24&descAlignY=55&fontColor=2D3436" alt="Header">
+</p>
 
-You can use the [editor on GitHub](https://github.com/YukiRed/yukired.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 👋 Hi there, I'm Desmond
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Exploring the intersection of **GPU Stacking**, **Text-to-Speech (TTS)**, and high-fidelity design.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 🛠️ Projects
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=2,21,22,26&text=Featured%20Projects&fontSize=50&fontColor=1E272E" alt="Featured Projects">
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+*   **[Docker Stack GPU](https://github.com/DDesmond95/docker-stack-gpu)**: Optimized GPU resource management for Docker.
+*   **[TTS Project](https://github.com/DDesmond95/TTS)**: Advanced text-to-speech implementation.
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+*Design components powered by [Capsule Render](https://github.com/kyechan99/capsule-render)*
 
-**Bold** and _Italic_ and `Code` text
+### 📫 Connect with me
 
-[Link](url) and ![Image](src)
-```
+<p align="left">
+  <a href="https://github.com/DDesmond95/ddesmond95.github.io/issues"><img src="https://img.shields.io/badge/Open%20Issue-4E5B31?style=for-the-badge&logo=github&logoColor=white" alt="Open Issue"></a>
+  <a href="https://github.com/DDesmond95/ddesmond95.github.io/discussions"><img src="https://img.shields.io/badge/Join%20Discussion-13547A?style=for-the-badge&logo=github&logoColor=white" alt="Discussion"></a>
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YukiRed/yukired.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,14,30&section=footer&reversal=true" alt="Footer">
+</p>

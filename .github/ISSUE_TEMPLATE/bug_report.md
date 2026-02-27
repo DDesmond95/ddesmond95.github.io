@@ -1,38 +1,28 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Help DDesmond95 fix issues in the project
+title: '[BUG] '
+labels: 'bug'
+assignees: 'DDesmond95'
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=21,22,26&text=Bug%20Report&fontSize=50&fontColor=1E272E"/>
+</p>
+
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear description of the issue.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Steps to reproduce the behavior...
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+What should have happened.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Context**
+- OS: [e.g. Windows]
+- Browser: [e.g. Chrome]
 
 **Additional context**
-Add any other context about the problem here.
+Add any other screenshots or logs here.
